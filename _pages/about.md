@@ -27,10 +27,11 @@ redirect_from:
 # News
 
 
-__May 2024__ :
+## __May 2024__ :
 
 1. Elected as the President of AAEIO, CU Boulder Chapter
 
 2. NLP research paper was published on Springer, link can be found in [Publications]{}
+
 
 
