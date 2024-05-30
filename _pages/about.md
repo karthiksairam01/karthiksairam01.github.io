@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+![Visual](/images/landing_page_visual.png){: .align-right width="300px}
 About me 📝
 ======
 
@@ -23,9 +25,6 @@ About me 📝
 News
 ======
 
-
-My Life
-======
 
 
 
