@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-![Visual](/images/landing_page_visual.png){: .align-right width="300px}
-About me 📝
-======
+![Visual](/images/landing_page_visual.png){: .align-right width="300px"}
+
+# About me 📝
+
 
 - Second year grad student pursuing research-based Computer Science at CU Boulder
 
@@ -23,8 +24,9 @@ About me 📝
 - I have worked on numerous projects, they can be found here in my [resume]{}
 
 
-News
-======
+# News
+
+
 __May 2024__ :
 
 1. Elected as the President of AAEIO, CU Boulder Chapter
