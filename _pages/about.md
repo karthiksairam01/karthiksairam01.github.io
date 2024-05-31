@@ -21,7 +21,7 @@ redirect_from:
 
 - I'm the current President of AAEIO, CU Boulder Chapter!
 
-- I have worked on numerous projects, they can be found here in my [Resume]{}
+- I have worked on numerous projects and co-authored three publications, they can be found here in [Resume]{https://karthiksairam01.github.io/files/resume.pdf} and [Publications]{https://karthiksairam01.github.io/publications/}
 
 
 # News
