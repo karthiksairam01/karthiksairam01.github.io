@@ -33,5 +33,7 @@ redirect_from:
 
 2. NLP research paper was published on Springer, link can be found in [Publications]{}
 
+3. Completed TA'ing for CSCI 3753: Design and Analysis of Operating Systems
+
 
 
