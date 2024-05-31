@@ -21,7 +21,7 @@ redirect_from:
 
 - I'm the current President of AAEIO, CU Boulder Chapter!
 
-- I have worked on numerous projects, they can be found here in my [resume]{}
+- I have worked on numerous projects, they can be found here in my [Resume]{}
 
 
 # News
@@ -31,7 +31,7 @@ redirect_from:
 
 1. Elected as the President of AAEIO, CU Boulder Chapter
 
-2. NLP research paper was published on Springer, link can be found in [Publications]{}
+2. NLP research paper was published on Springer, link can be found in [Publications]{https://karthiksairam01.github.io/publications/}
 
 3. Completed TA'ing for CSCI 3753: Design and Analysis of Operating Systems
 
