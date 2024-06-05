@@ -28,7 +28,6 @@ I’m Karthik Sairam, pursuing my Masters degree in research-based Computer Scie
 
 # News
 
-
 ## __May 2024__ :
 
 1. Elected as the President of AAEIO, CU Boulder Chapter
