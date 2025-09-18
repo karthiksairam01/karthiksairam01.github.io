@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-![Visual](/images/landing_page_visual.png){: .align-right width="300px"}
-
 # About me 📝
 
 - I am a Machine Learning Engineer with a Master's in Computer Science from CU Boulder, specializing in Natural Language Processing for low-resource languages.
