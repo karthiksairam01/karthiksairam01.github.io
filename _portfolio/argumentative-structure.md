@@ -4,15 +4,15 @@ excerpt: "My Master's Thesis project where I created a novel annotated dataset o
 collection: portfolio
 ---
 
-This project was the focus of my Master's Thesis, investigating how identifying and representing argumentative structures in conversation can enhance neural conversation models. [cite_start]Focusing on the `r/ChangeMyView` corpus, the goal was to create a foundational, high-quality dataset and a structured representation to inform future work in domain adaptation for dialogue systems[cite: 74, 81].
+This project was the focus of my Master's Independent Study, investigating how identifying and representing argumentative structures in conversation can enhance neural conversation models. Focusing on the `r/ChangeMyView` corpus, the goal was to create a foundational, high-quality dataset and a structured representation to inform future work in domain adaptation for dialogue systems.
 
 ### Key Contributions:
 
-* [cite_start]**Manual Annotation & Dataset Creation:** I developed a detailed annotation scheme to classify the relationship between conversational replies as 'Attack', 'Support', or 'Neutral'[cite: 112]. [cite_start]I personally conducted a manual annotation effort on over 500 utterance pairs, establishing a novel dataset that revealed a high prevalence of 'Attack' relations, which is characteristic of the `r/ChangeMyView` forum[cite: 76, 77].
+* **Manual Annotation & Dataset Creation:** I developed a detailed annotation scheme to classify the relationship between conversational replies as 'Attack', 'Support', or 'Neutral'. I personally conducted a manual annotation effort on over 500 utterance pairs, establishing a novel dataset that revealed a high prevalence of 'Attack' relations, which is characteristic of the `r/ChangeMyView` forum.
 
-* [cite_start]**Graph Construction:** To capture the structural dynamics of the conversations, I converted the annotated data into a directed graph representation using Python and the `networkx` library[cite: 78, 128]. [cite_start]In this graph, utterances are nodes and the annotated 'Attack', 'Support', or 'Neutral' labels are attributes on the directed edges, explicitly modeling the argumentative flow[cite: 132].
+* **Graph Construction:** To capture the structural dynamics of the conversations, I converted the annotated data into a directed graph representation using Python and the `networkx` library. In this graph, utterances are nodes and the annotated 'Attack', 'Support', or 'Neutral' labels are attributes on the directed edges, explicitly modeling the argumentative flow.
 
-* [cite_start]**LLM Benchmarking:** I conducted initial experiments using a Llama-3.2-1b model to establish a zero-shot classification baseline for this new task[cite: 79]. [cite_start]The results showed a significant discrepancy compared to human annotations, with the model exhibiting a strong bias towards 'Support' or 'Neutral' predictions[cite: 80]. This underscores the difficulty of the task and highlights the value of the new structured dataset for future model fine-tuning.
+* **LLM Benchmarking:** I conducted initial experiments using a Llama-3.2-1b model to establish a zero-shot classification baseline for this new task. The results showed a significant discrepancy compared to human annotations, with the model exhibiting a strong bias towards 'Support' or 'Neutral' predictions. This underscores the difficulty of the task and highlights the value of the new structured dataset for future model fine-tuning.
 
 This work provides a critical foundation for integrating symbolic argumentative structure with neural models, such as Graph Neural Networks, to build more nuanced and context-aware conversational AI.
 
