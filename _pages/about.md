@@ -10,10 +10,10 @@ redirect_from:
 
 # About me 📝
 
-- I am a Machine Learning Engineer with a Master's in Computer Science from CU Boulder, specializing in Natural Language Processing for low-resource languages.
-- My recent work at Cambium Assessment involves engineering end-to-end data processing pipelines for linguistic analysis.
-- I have hands-on experience developing and evaluating neuro-symbolic models, including GNNs and LLM-based systems, to tackle complex problems like food hazard detection and semantic representation.
-- I am passionate about building robust, fair, and typologically-informed models and am currently seeking full-time opportunities where I can apply my skills in ML/NLP and MLOps.
+I am a Machine Learning Engineer with a Master's in Computer Science from CU Boulder, where I specialized in building and deploying advanced NLP and MLOps systems. My work focuses on the intersection of **Neuro-Symbolic AI**, **Conversational AI**, and **Graph-based Analysis**. I'm passionate about transforming unstructured conversational data into explainable models that can reveal complex dynamics like persuasion and intent.
+
+Recently, I've been focused on developing **agentic RAG systems**. My latest project is an AI Research Assistant that can autonomously reason and synthesize information across multiple research papers to answer complex, comparative questions. I'm always looking for new opportunities to apply my skills to build robust, scalable, and impactful AI-driven solutions.
+
 
 # More (about me)
 
