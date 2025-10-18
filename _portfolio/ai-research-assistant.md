@@ -2,6 +2,7 @@
 title: "AI Research Assistant: A Multi-Document Agentic RAG System"
 excerpt: "An advanced agentic system that can read, compare, and synthesize information across multiple documents to answer complex, comparative questions about my research. <br/><img src='/images/agent_screenshot.png'>"
 collection: portfolio
+date: 2025-10-18
 ---
 
 This project is an advanced web application that acts as an AI research assistant, capable of reading, comparing, and synthesizing information from my two NLP research papers. It moves beyond a simple Q&A bot by using a **LangChain Agent** that can autonomously decide which document to consult to answer complex, comparative, and conversational questions.

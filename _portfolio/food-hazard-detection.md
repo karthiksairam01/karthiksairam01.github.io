@@ -2,6 +2,7 @@
 title: "Towards Explainable Food Hazard Detection"
 excerpt: "A neuro-symbolic approach to food hazard detection that combines Large Language Models (Llama-3.1-8B) with knowledge graphs (ConceptNet) to create an inherently explainable classification system.<br/><img src='/images/food_hazard_visual.png'>"
 collection: portfolio
+date: 2024-12-14
 ---
 
 As food systems grow more complex, ensuring food safety with transparent and interpretable AI is critical. This project introduces a novel neuro-symbolic approach for food hazard detection that prioritizes explainability without sacrificing performance, especially in low-data scenarios.

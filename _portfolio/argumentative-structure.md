@@ -2,6 +2,7 @@
 title: "Argumentative Structure Analysis for Domain Adaptation"
 excerpt: "My Master's Thesis project where I created a novel annotated dataset of conversational arguments, engineered a graph-based representation, and benchmarked LLM performance for relation classification.<br/><img src='/images/arg_structure_visual.png'>"
 collection: portfolio
+date: 2025-12-15
 ---
 
 This project was the focus of my Master's Independent Study, investigating how identifying and representing argumentative structures in conversation can enhance neural conversation models. Focusing on the `r/ChangeMyView` corpus, the goal was to create a foundational, high-quality dataset and a structured representation to inform future work in domain adaptation for dialogue systems.
