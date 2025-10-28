@@ -23,9 +23,11 @@ I’m Karthik Sairam, a recent graduate of the research-based Master's in Comput
 
 ## __October 2025__ :
 
+- Thrilled that my first-author paper is being presented at the AIME-Con 2025 conference! The work, ["The Impact of an NLP-Based Writing Tool on Student Writing"](https://aclanthology.org/2025.aimecon-sessions.14/), analyzes how an NLP-based feedback tool influences student revision strategies and fosters metacognitive engagement. The paper is now published in the official conference proceedings.
+
 - Developed and deployed two major portfolio projects: an interactive [**Conversational RAG Application**](https://github.com/karthiksairam01/ai-research-chatapp) and a more advanced [**AI Research Assistant**](https://github.com/karthiksairam01/agentic-rag-chat-app), an agentic system capable of reasoning across multiple documents.
 
-## __September 2025__ :
+## __June 2025__ :
 
 - Began my role as a Machine Learning Intern at Cambium Assessment, engineering data pipelines for linguistic analysis. My work will be presented at [AIME-Con 2025](https://www.ncme.org/event/special-conferences/aime-conference), organized by NCME (National Council on Measurement in Education)!
 
